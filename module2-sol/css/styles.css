@@ -6,8 +6,9 @@
 
 h1 {
 	font-family: Fixed, monospace;
-	color: #faebd7;
+	color: #f0f8ff;
 	text-align: center;
+	text-transform: uppercase;
 }
 
 body {
@@ -46,13 +47,13 @@ section {
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
-	font-family: monospace;
+	font-family: Bookman, serif;
 	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #ff033e;
+	background-color: #800020;
 }
 
 #beef {
@@ -60,13 +61,13 @@ section {
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
-	font-family: monospace;
+	font-family: Bookman, serif;
 	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #ff033e;
+	background-color: #800020;
 }
 
 #sushi {
@@ -74,13 +75,12 @@ section {
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
-	font-family: monospace;
+	font-family: Bookman, serif;monospace;
 	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
-	background-color: #ff033e;
-	color: white;
+	background-color: #800020;	
 	padding: 5px;
 }
 
